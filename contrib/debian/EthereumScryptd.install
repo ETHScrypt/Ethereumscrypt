@@ -1,0 +1,2 @@
+debian/bin/EthereumScryptd usr/bin
+src/EthereumScryptd usr/lib/EthereumScrypt

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EthereumScrypt
+Comment=EthereumScrypt P2P Cryptocurrency
+Comment[fr]=EthereumScrypt, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EthereumScrypt, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/EthereumScrypt-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/EthereumScrypt;
+Categories=Office;

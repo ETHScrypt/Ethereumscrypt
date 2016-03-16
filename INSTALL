@@ -1,0 +1,9 @@
+Building EthereumScrypt
+
+See doc/readme-qt.rst for instructions on building EthereumScrypt QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EthereumScrypt.
+
+See doc/build-*.txt for instructions on building ethereumscryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of EthereumScrypt.
